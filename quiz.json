@@ -1,0 +1,4 @@
+var quiz = [
+  {question: 'Question 1 text', answers: ['answer 1', 'answer 2'], correct: 0},
+  {question: 'Question 2 text', answers: ['answer 1', 'answer 2'], correct: 1}
+];
